@@ -1,6 +1,6 @@
 # 🗺️ IT-Governance-Memory-Maps
 
-> **Your brain-friendly guide to IT Project Governance — with maps, stories, and zero boring jargon.**
+> **Your brain-friendly guide to IT Project Governance with maps, stories, and zero boring jargon.**
 
 ---
 
