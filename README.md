@@ -60,7 +60,7 @@ OLD WAYS (1990s)                    NEW WAYS (Today)
 📮 Email chains (lost in inbox) →   🎫 Ticketing systems (nothing gets lost)
 ```
 
-**Kid Example 🧒:**
+**For Instance 🧒:**
 - **Old way** = Your friend Mia plans a picnic by writing everything in a notebook. On the day, she forgot to check the weather. It rains. Sad sandwiches.
 - **New way** = An app reminds Mia three days early: *"Rain on Saturday! Move your picnic?"* Crisis avoided. 🌞
 
@@ -132,7 +132,7 @@ Sponsor  Project       Steering
 - **Crisis management** — Server down at 2am? You need a calm human voice on a call.
 - **Accountability** — If something fails, a human must answer for it.
 
-**Kid Example 🧒:** AI is like a super-fast calculator. It can multiply a million numbers in a second. But it can't decide *which* numbers matter for your science project. You do that part. You're still the scientist.
+**Like 🧒:** AI is like a super-fast calculator. It can multiply a million numbers in a second. But it can't decide *which* numbers matter for your science project. You do that part. You're still the scientist.
 
 ---
 
@@ -205,7 +205,7 @@ Over **305 million patients** in the US have their records in Epic. That's nearl
 - **ERP Setup:** Epic handles billing, supply chain for hospitals, and HR scheduling of nurses and doctors in one platform.
 - **Governance Win:** Epic requires every new hospital to go through a structured "go-live" process — months of training, data migration checks, and dry runs before going live. This is textbook governance.
 
-**Kid Example 🧒:** Imagine if your school kept every student's homework, health notes, and lunch orders in one place — and your parents, teachers, and nurse all used it. That's Epic, but for hospitals.
+**In reality 🧒:** Imagine if your school kept every student's homework, health notes, and lunch orders in one place and your parents, teachers, and nurse all used it. That's Epic, but for hospitals.
 
 ---
 
@@ -242,7 +242,7 @@ Shopify powers **over 4 million stores** in 175 countries. Their platform *is* t
 - **ERP Setup:** Inventory syncs across online store, POS (physical shops), and warehouses in real time. Integrations with QuickBooks, Xero, and ShipBob extend this further.
 - **Governance Win:** Shopify's Partner program vets every app in their App Store — governance over their ecosystem, not just their core product.
 
-**Kid Example 🧒:** Shopify is like a **lemonade stand kit** that comes with a cash register, a sign maker, a customer notebook, and a stockroom tracker. All in one box. You just add your lemons.
+**Lets say🧒:** Shopify is like a **lemonade stand kit** that comes with a cash register, a sign maker, a customer notebook, and a stockroom tracker. All in one box. You just add your lemons.
 
 ---
 
@@ -315,7 +315,7 @@ actors
 | Data breach | 2 | 5 | CRIT | End-to-end encryption, PCI-DSS Level 1 |
 | Currency exchange loss | 3 | 3 | MED | Hedging strategies, FX team |
 
-**Real-World Case:** In 2021, a major fraud ring attacked Stripe merchants using stolen card details in automated bursts. Stripe's Radar AI detected the pattern within minutes — flagging 97% of fraudulent charges before they cleared. Human fraud analysts reviewed edge cases. The system held.
+**Case:** In 2021, a major fraud ring attacked Stripe merchants using stolen card details in automated bursts. Stripe's Radar AI detected the pattern within minutes — flagging 97% of fraudulent charges before they cleared. Human fraud analysts reviewed edge cases. The system held.
 
 ---
 
@@ -344,7 +344,7 @@ systems  audits       programs    labs before
 | Billing errors | 3 | 4 | HIGH | Automated coding checks, audits |
 | Interoperability gaps | 3 | 3 | MED | HL7/FHIR integration standards |
 
-**Real-World Case:** In 2020, Universal Health Services — one of the largest US hospital chains — was hit by a ransomware attack. Their EMR went down for weeks. Hospitals using Epic's offline mode and disaster recovery protocols kept serving patients. Those without robust governance scrambled. The lesson: governance saves lives, not just money.
+**Case:** In 2020, Universal Health Services — one of the largest US hospital chains — was hit by a ransomware attack. Their EMR went down for weeks. Hospitals using Epic's offline mode and disaster recovery protocols kept serving patients. Those without robust governance scrambled. The lesson: governance saves lives, not just money.
 
 ---
 
@@ -373,7 +373,7 @@ CDN      detection    management  vetting
 | Malicious third-party app | 3 | 4 | HIGH | App Store review process, sandboxing |
 | Payment gateway failure | 2 | 4 | HIGH | Multiple payment provider fallback |
 
-**Real-World Case:** Black Friday 2023. Shopify processed **$9.3 billion** in sales in a single day — a record. This didn't happen by luck. Shopify runs "Black Friday war games" months in advance: simulated traffic spikes, failure drills, on-call rosters. Classic governance. Zero major outages.
+**Case:** Black Friday 2023. Shopify processed **$9.3 billion** in sales in a single day — a record. This didn't happen by luck. Shopify runs "Black Friday war games" months in advance: simulated traffic spikes, failure drills, on-call rosters. Classic governance. Zero major outages.
 
 ---
 
@@ -433,7 +433,7 @@ YOUR PROJECT KICK-OFF
   Step 5: REVIEW ──► Pick a weekly check-in time. Never skip it.
 ```
 
-**Kid Example 🧒:** You want to build the school's best robot for the science fair.
+**Consider🧒:** You want to build the school's best robot for the science fair.
 - **Define:** "Build a robot that sorts recycling by colour by March 15."
 - **Team:** You = builder. Maya = coder. Raj = presenter.
 - **Budget:** $40 for parts. Keep $6 spare.
